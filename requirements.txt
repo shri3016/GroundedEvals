@@ -1,0 +1,14 @@
+# Core Evaluation Framework
+inspect-ai>=0.3.0
+
+# API Client Libraries
+openai>=1.0.0
+anthropic>=0.18.0
+httpx>=0.24.0
+
+# Environment & Configuration
+python-dotenv>=1.0.0
+
+# AWS Support (for Bedrock models)
+boto3>=1.28.0
+botocore>=1.31.0
