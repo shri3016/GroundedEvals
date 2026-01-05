@@ -1,4 +1,4 @@
-# GroundCheck: LLM Behavioral Evaluation Framework
+# GroundEvals: LLM Behavioral Evaluation Framework
 
 [![Framework](https://img.shields.io/badge/Framework-Inspect%20AI-blue)](https://inspect.aisi.org.uk/)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-green)](https://python.org)
